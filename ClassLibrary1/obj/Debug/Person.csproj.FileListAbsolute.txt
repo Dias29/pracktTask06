@@ -1,0 +1,9 @@
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\ClassLibrary1\bin\Debug\Banking.dll
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\ClassLibrary1\bin\Debug\Corporation.dll
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\ClassLibrary1\bin\Debug\Banking.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\ClassLibrary1\bin\Debug\Corporation.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\ClassLibrary1\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

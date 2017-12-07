@@ -13,6 +13,10 @@ namespace Bancomat
     {
         static void Main(string[] args)
         {
+            Client client = new Client();
+            Console.WriteLine("Write an email: ");
+            //client.Email
+            //{ string mail; mail = Console.ReadLine(); };
         }
     }
 }

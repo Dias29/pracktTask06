@@ -1,1 +1,13 @@
 d:\users10\asus\documents\visual studio 2015\Projects\Bancomat\Bancomat\bin\Debug\Bancomat.exe.config
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\bin\Debug\Bancomat.exe.config
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\bin\Debug\Bancomat.exe
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\bin\Debug\Bancomat.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\bin\Debug\Banking.dll
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\bin\Debug\ClassLibrary1.dll
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\bin\Debug\Corporation.dll
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\bin\Debug\Banking.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\bin\Debug\ClassLibrary1.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\bin\Debug\Corporation.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\obj\Debug\Bancomat.csprojResolveAssemblyReference.cache
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\obj\Debug\Bancomat.exe
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Bancomat\obj\Debug\Bancomat.pdb

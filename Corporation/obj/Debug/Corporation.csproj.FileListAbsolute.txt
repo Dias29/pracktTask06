@@ -1,0 +1,5 @@
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Corporation\bin\Debug\Corporation.dll
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Corporation\bin\Debug\Corporation.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Corporation\obj\Debug\Corporation.csprojResolveAssemblyReference.cache
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Corporation\obj\Debug\Corporation.dll
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\pracktTask06\Corporation\obj\Debug\Corporation.pdb
